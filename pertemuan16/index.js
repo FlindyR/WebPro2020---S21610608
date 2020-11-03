@@ -1,3 +1,3 @@
-import hello from './world.js'
+import { hello } from './world.js'
 
 hello("Flindy");
